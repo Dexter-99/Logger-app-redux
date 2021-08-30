@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed Shit Again",
+      "attention": true,
+      "tech": "Vikas Verma",
+      "date": "2021-08-30T10:33:10.206Z"
+    },
+    {
+      "message": "Fixed Hard Drive",
+      "attention": false,
+      "tech": "Abhikrit Singh",
+      "date": "2021-08-30T10:22:06.025Z",
+      "id": 2
+    },
+    {
+      "message": "Jaldi kar panvel nikalna hai",
+      "attention": true,
+      "tech": "Vikas Verma",
+      "date": "2021-08-30T12:21:12.269Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "fname": "Vikas",
+      "lname": "Verma"
+    },
+    {
+      "fname": "John",
+      "lname": "Doe",
+      "id": 4
+    }
+  ]
+}
